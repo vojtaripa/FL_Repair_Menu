@@ -2,7 +2,7 @@
 ;Repair Super Task Menu
 
 ; Editted and revised by: Vojta Ripa
-; DATE: 01-20-2020
+; DATE: 02-5-2020
 ; vojtaripa@yahoo.com - email me if needed.
 ; written in: autohotkey
 ; FORMS: https://autohotkey.com/board/
